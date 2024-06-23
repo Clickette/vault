@@ -1,7 +1,13 @@
 <img width=250 src="https://clickette.net/u/aZan5o.png">
 
+---
+##### [CLICKETTE VAULT SERVER](https://vault.clickette.net/server/) ・ GPL-3.0
+
 ###### WHAT'S VAULT?
 Vault is a powerful and flexible open source file hosting server software. It's designed for production use with protections built in. It will be used on our own file hosting service after we've reached the level of functionality of what we use now, [zipline.](https://zipline.diced.sh/)
+
+> [!WARNING]  
+> We do not recommend you host this as of now, at least for production use caes. We're by no means experienced enough to iron out all security flaws so please avoid using this till we are sure it is safe.
 
 ###### PLANNED FEATURES
 - Customizability
@@ -18,7 +24,7 @@ Vault is a powerful and flexible open source file hosting server software. It's 
 - Public/Private file storing toggle
 - URL Shortening
 - Screenshot utility support
-- [A lot more](https://vault.clickette.net/docs/)
+- [A lot more](https://vault.clickette.net/server/docs)
 
 ###### LICENSE
 Clickette's vault software is using the **GPL-3.0 License.** You can read it in detail [here](https://github.com/Clickette/search/blob/main/LICENSE) but in a nutshell, what it means is:
